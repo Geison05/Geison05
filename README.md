@@ -1,8 +1,7 @@
 ### Hey 👋
 
--Me chamo Geison!
-
--tenho 23 anos.
--sou estudante de Análise e Desenvolvimento de Sistemas na Una Barreiro
+- Me chamo Geison!😎
+- Tenho 23 anos. 🎈
+- Sou estudante de Análise e desenvolvimento do sistema.👨‍💻
 
 #### Fome de Conhecimento!!
