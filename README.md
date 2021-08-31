@@ -4,4 +4,4 @@
 - Tenho 23 anos. 🎈
 - Sou estudante de Análise e desenvolvimento do sistema.👨‍💻
 
-#### Fome de Conhecimento !! 🤤🤤
+####“Bem feito é melhor que bem dito.” 
