@@ -1,9 +1,21 @@
-### Hey 👋
+### Oi :wave:
 
-- Me chamo Geison!😎
-- Tenho 23 anos. 🎈
-- De Belo Horizonte. 📌
-- Sou estudante de Análise e desenvolvimento do sistema.👨‍💻
+- Me chamo Geison Amorim! :sunglasses:
+- Tenho 23 anos. :balloon:
+- Belo Horizonte. :pushpin:
+- Sou estudante de Análise e Desenvolvimento de Sistemas. :computer:
 
-### “Bem feito é melhor que bem dito.” 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geison-amorim/)](https://www.linkedin.com/in/geison-amorim/)
+### "Bem feito é melhor que bem dito"
+
+### Contatos:
+
+<div>
+<a href = "geisonam43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/geison-amorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/Geison05">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
